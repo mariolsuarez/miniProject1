@@ -1,4 +1,4 @@
 IS117-003
-miniproject 1 members:
+miniproject1 members:
 Mary Machado
 Mario Suarez
