@@ -1,4 +1,4 @@
-
-
-
-This a document created in my remote (my terminal) and commited there!
+IS117-003
+miniproject 1 members:
+Mary Machado
+Mario Suarez
