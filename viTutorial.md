@@ -3,8 +3,8 @@ when using Vi in Linux
 
 There are two modes when using vi:
 
--**- Command Mode**
--**- Text Mode**
+- Command Mode
+- Text Mode
 
 The first thing you wnat to understand is that it will be tricky to know when
 you are in command mode, so just press **[ESC]** twice.
@@ -30,12 +30,12 @@ For that you need to be in COMMAND MODE and then type : set numbers.
 The main commands you want to learn so you can navigate easier in the document
 while in COMMAND MODE are:
 
--**k** - Move up one character.
--**j** - Move down one character.
--**h** - Move left one character.
--**l** - Move right one character.
-**w** - Move forward one word.
-**b** - Move to the start of the word.
+-k - Move up one character.
+-j - Move down one character.
+-h - Move left one character.
+-l - Move right one character.
+-w - Move forward one word.
+-b - Move to the start of the word.
 **e** - Move to the end of the word.
 **^** - Move to the beginning of the line.
 **$** - Move to the end of the line.
