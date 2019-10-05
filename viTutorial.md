@@ -3,7 +3,7 @@ when using Vi in Linux
 
 There are two modes when using vi:
 
-- Command Mode
+** - Command Mode **
 - Text Mode
 
 The first thing you wnat to understand is that it will be tricky to know when
