@@ -64,6 +64,8 @@ The followig are the links of helpful websites if you want to learn more in deep
 
 - [github website](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
 - [ryans tutorial](https://ryanstutorials.net/linuxtutorial/cheatsheetvi.php)
+- This helpful sheet: [vi Cheat Sheet](./viCheatSheet.pdf) was found at: https://www.cheatography.com/adzz/cheat-sheets/vi-editor/pdf/
+
 
 
 
