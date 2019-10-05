@@ -30,8 +30,8 @@ For that you need to be in COMMAND MODE and then type : set numbers.
 The main commands you want to learn so you can navigate easier in the document
 while in COMMAND MODE are:
 
-1. k - Move up one character.
-2. j - Move down one character.
++ k  Move up one character.
++ j  Move down one character.
 -h - Move left one character.
 -l - Move right one character.
 -w - Move forward one word.
