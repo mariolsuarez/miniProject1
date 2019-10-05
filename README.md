@@ -1,4 +1,9 @@
+# miniproject1
+
+### IS117-003
+## Members:
+1. Mary Machado
+2. Mario Suarez
 
 
-
-This a document created in my remote (my terminal) and commited there!
+### You will find the following documentsby clicking on the links provided:
