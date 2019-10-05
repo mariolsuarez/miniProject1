@@ -2,4 +2,8 @@
 - Mary started messing up until she figure it out... or at least that's what she thinks.
 - Mary added a TASK which is adding a "anyFile.php" to the repository
 - Mary created the "Changelog.md" document to add all the changes she did
+- Mary created a viTutorial.md document
 - Mary uploaded viCheatSheet.pdf 
+- Mary uploaded viTutorial.png 
+- Mary updated viTutorial and added links to websites, to a pdf located in repository, and a image.
+- Mary added a link in README.md to the viTutorial.
