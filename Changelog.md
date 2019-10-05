@@ -1,0 +1,4 @@
+- Mary created the repository in her account
+- Mary started messing up until she figure it out... or at least that's what she thinks.
+- Mary added a TASK which is adding a "anyFile.php" to the repository
+- Mary created the "Changelog.md" document to add all the changes she did
