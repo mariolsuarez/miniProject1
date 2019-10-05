@@ -32,16 +32,16 @@ while in COMMAND MODE are:
 
 + k Move up one character
 + j Move down one character
-+h -> Move left one character
-+l -> Move right one character
-+w -> Move forward one word.
-+b -> Move to the start of the word.
-+e -> Move to the end of the word.
-+^ -> Move to the beginning of the line.
-+$ -> Move to the end of the line.
++ h -> Move left one character
++ l -> Move right one character
++w -> Move forward one word
++b -> Move to the start of the word
++e -> Move to the end of the word
++^ -> Move to the beginning of the line
++$ -> Move to the end of the line
 +x -> Delete a single character
-+dd -> Delete the entire current line.
-+:x -> The colon followed by a number would position the cursor on the line represented by x.
++dd -> Delete the entire current line
++:x -> The colon followed by a number would position the cursor on the line represented by x
 
 While in **COMAND MODE**, and you want to get in INSERT MODE, you can use the
 following:
