@@ -1,4 +1,4 @@
-# miniproject1 {#custom-id}
+# miniproject1
 
 ### IS117-003
 ## Members:
