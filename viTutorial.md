@@ -59,3 +59,11 @@ Then to save or quit, you need to get into **COMMAND MODE**, and use the followi
 + wq -> Write and quit (save and quit)
 
 I hope this was useful for you to understand!
+
+The followig are the links of helpful websites if you want to learn more in deep about vi:
+
+- [github website](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
+- [ryans tutorial](https://ryanstutorials.net/linuxtutorial/cheatsheetvi.php)
+
+
+
