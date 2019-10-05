@@ -6,4 +6,6 @@
 2. Mario Suarez
 
 
-### You will find the following documentsby clicking on the links provided:
+### You will find the following documents by clicking on the links provided:
+
+- This will link you to the 
