@@ -28,7 +28,7 @@ One thing I believe you will like is to add Line Numbers in the document when
 editing, it will make it easier to directly move to the line number and do
 whatever you want to.
 
-For that you need to be in COMMAND MODE and then type : set numbers.
+For that you need to be in COMMAND MODE and then type : set number
 
 The main commands you want to learn so you can navigate easier in the document
 while in COMMAND MODE are:
