@@ -7,3 +7,4 @@
 - Mary uploaded viTutorial.png 
 - Mary updated viTutorial and added links to websites, to a pdf located in repository, and a image.
 - Mary added a link in README.md to the viTutorial.
+- Mario created a commong git terms file
