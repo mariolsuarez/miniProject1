@@ -49,3 +49,6 @@ names of the files or directories in the current Directory
 
 - Using up and down arrow for history -> This will display all the last executed commands in the Linux. It makes it easier because sometimes we want to reuse the
 commands and it saves time.
+
+A good introduction video is:
+- - [YouTube Linux Introduction](https://www.youtube.com/watch?v=IVquJh3DXUA)
