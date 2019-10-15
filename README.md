@@ -10,6 +10,6 @@
 
 - [Vi Tutorial](/viTutorial.md)
 - [Linux Basic Commands](/linuxCommands.md)
-- [Common GitHub Terms](/Task–Ticket 1 Git Terms)
+- [Common GitHub Terms](/Task - Ticket 1 Git Terms)
 - [Git VS GitHub](/git_vs_github.md)
 
