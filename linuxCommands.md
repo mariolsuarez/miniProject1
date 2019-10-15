@@ -1,6 +1,6 @@
 ### Linux Basic Commands
 
-![Linux logo](./linux_logo.png)
+![Linux logo](./linux_logo.jpg)
 
 In this tutorial you will learn basic commands that are very useful when
 working in Linux.
