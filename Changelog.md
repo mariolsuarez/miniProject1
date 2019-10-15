@@ -9,3 +9,4 @@
 - Mary added a link in README.md to the viTutorial.
 
 - Mario created md file explaining git vs github.
+- Mary made some edits in the Vi Tutorial and Linux Basic Commands
