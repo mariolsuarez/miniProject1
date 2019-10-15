@@ -32,8 +32,7 @@ working in Linux.
   - $history 3  will display the last 3 commands
 
 8. Home directory and ~ -> Home directory is the user's root of all its files and directories
-  - the ~ (tilde) will serve as shortcut to get back to home in this way
-  user@myHome:~/Desktop/file1/Alpha$ cd ~
+  - the ~ (tilde) will serve as shortcut to get back to home in this way user@myHome:~/Desktop/file1/Alpha$ cd ~
   will bring you to:
   user@myHome:~$
 
