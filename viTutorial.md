@@ -73,5 +73,3 @@ Also, I found a video:
 
 - [YouTube Vi Tutorial](https://www.youtube.com/watch?v=HMpB28l1sLc)
 
-
-
