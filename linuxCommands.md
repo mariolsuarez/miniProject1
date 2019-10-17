@@ -41,12 +41,12 @@ working in Linux.
   - $history 3  will display the last 3 commands
   <br>
 
-8. **Home directory and ~** -> Home directory is the user's root of all its files and directories
+8. **Home directory and \~** -> Home directory is the user's root of all its files and directories
   - the ~ (tilde) will serve as shortcut to get back to home by just typing **cd \~** will bring you to: **user@myHome:~$**
   <br>
 
 9. **File paths** in Linux -> This will be like a map path, to know exactly how to get to a certain directory or file
-  - if you type **cd /Desktop/file1/Alpha**
+  - If you type **cd /Desktop/file1/Alpha**
   this will take you directly to user@myHome:~/Desktop/file1/Alpha
   <br>
 
