@@ -1,5 +1,5 @@
 ### VI TUTORIAL
-![Vi tutorial screenshot](./viTutorial.png)
+![Vi tutorial screenshot](./viScreenshot.png)
 
 In this tutorial you will learn basic commands
 when using Vi in Linux
@@ -65,10 +65,11 @@ I hope this was useful for you to understand!
 
 The followig are the links of helpful websites if you want to learn more in deep about vi:
 
-- [github website](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
-- [ryans tutorial](https://ryanstutorials.net/linuxtutorial/cheatsheetvi.php)
+- [Tutorials Point Website](https://www.tutorialspoint.com/unix/unix-vi-editor.htm)
+- [Ryans Tutorial](https://ryanstutorials.net/linuxtutorial/cheatsheetvi.php)
 - This helpful sheet: [vi Cheat Sheet](./viCheatSheet.pdf) was found at: https://www.cheatography.com/adzz/cheat-sheets/vi-editor/pdf/
 
+Also, I found a video:
 
-
+- [YouTube Vi Tutorial](https://www.youtube.com/watch?v=HMpB28l1sLc)
 

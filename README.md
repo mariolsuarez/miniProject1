@@ -8,6 +8,8 @@
 
 ### You will find the following documents by clicking on the links provided:
 
-- This will link you to the: [Vi Tutorial](/viTutorial.md)
-- This will link you to the: [Linux Basic Commands](/linuxCommands.md)
+- [Vi Tutorial](/viTutorial.md)
+- [Linux Basic Commands](/linuxCommands.md)
+- [Common GitHub Terms](/Task - Ticket 1 Git Terms)
+- [Git VS GitHub](/git_vs_github.md)
 
