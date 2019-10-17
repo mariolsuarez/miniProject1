@@ -10,4 +10,4 @@
 - Mario created md file explaining git vs github.
 - Mario created a new .md file with git definitions of common words
 - Mary made some edits in the Vi Tutorial and Linux Basic Commands
-
+- Mario updated read.me file to reflect created  git definitions .md file
