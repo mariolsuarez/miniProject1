@@ -9,3 +9,4 @@
 - Mary added a link in README.md to the viTutorial.
 
 - Mario created md file explaining git vs github.
+- Mario created a new .md file with git definitions of common words
