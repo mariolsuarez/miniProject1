@@ -10,6 +10,6 @@
 
 - [Vi Tutorial](/viTutorial.md)
 - [Linux Basic Commands](/linuxCommands.md)
-- [Git Definitions](/Git Definitions.md)
+- [Git Definitions](/GitDefinitions.md)
 - [Git VS GitHub](/git_vs_github.md)
 
