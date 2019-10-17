@@ -12,4 +12,4 @@
 - [Linux Basic Commands](/linuxCommands.md)
 - [Git Definitions](/GitDefinitions.md)
 - [Git VS GitHub](/git_vs_github.md)
-
+- [Git Flow](/gitFlow.md)
