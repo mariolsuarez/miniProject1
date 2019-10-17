@@ -19,7 +19,7 @@ working in Linux.
   <br>
 
 3. **cp** -> **copy** This will make copies of files and directories
-  - $cp <file you want to duplicate> <name of new file>
+  - $cp file1.txt newFile.txt
   <br>
 
 4. **pwd** -> **print working directory** -> This will let you see the path of the working directory starting from the root.
@@ -27,7 +27,7 @@ working in Linux.
   <br>
 
 5. **mv** -> **move** This will move one or more files or directories from one destination to another. Also, it changes the name of a file.
-  - $mv <source> <destination>
+  - $mv source destination
   - $mv file1.txt file2.txt then the file1.txt will be renamed as file2.txt
   <br>
 
@@ -42,8 +42,7 @@ working in Linux.
   <br>
 
 8. **Home directory and ~** -> Home directory is the user's root of all its files and directories
-  - the ~ (tilde) will serve as shortcut to get back to home by just typing **cd ~** will bring you to:
-  user@myHome:~$
+  - the ~ (tilde) will serve as shortcut to get back to home by just typing **cd \~** will bring you to: **user@myHome:~$**
   <br>
 
 9. **File paths** in Linux -> This will be like a map path, to know exactly how to get to a certain directory or file
