@@ -11,4 +11,6 @@
 - Mario updated a new .md file with git definitions of common words
 - Mary made some edits in the Vi Tutorial and Linux Basic Commands
 - Mario uploaded gitflow.md file
+- Mario updated read.me file to reflect created  git definitions .md file
+- Mary added a small description in the README.MD file about this repo 
 
